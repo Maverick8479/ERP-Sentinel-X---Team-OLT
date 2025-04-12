@@ -1,0 +1,27 @@
+query,intent
+How do I generate an invoice?,generate_invoice
+How do I generate an invoice?,generate_invoice
+& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator
+& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator
+How are HSN-wise summary reports generated in IDMS?,hsn_summary_report
+& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator
+& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator
+Can IDMS generate GST returns automatically?,generate_gst_return
+How do I create a GRN?,create_grn
+How do I create a GRN?,create_grn
+Where can I check PO status?,check_pending_po
+Where can I check PO status?,check_pending_po
+How does IDMS generate audit reports for GST compliance?,get_gst_info
+How do I generate an invoice?,generate_invoice
+How do I generate an invoice?,generate_invoice
+Where can I check GRN status?,create_grn
+Where can I check GRN status?,create_grn
+How are HSN-wise summary reports generated in IDMS?,hsn_summary_report
+Where can I check GRN status?,create_grn
+Where can I check GRN status?,create_grn
+Can IDMS generate GST returns automatically?,generate_gst_return
+& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/fine_tune_classifier.py,get_batch_creator
+& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/fine_tune_classifier.py,get_batch_creator
+Where can I check GRN status?,create_grn
+Where can I check GRN status?,create_grn
+Can IDMS generate GST returns automatically?,generate_gst_return

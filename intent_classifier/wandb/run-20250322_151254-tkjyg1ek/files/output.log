@@ -1,0 +1,6 @@
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [00:06<00:00,  2.44it/s]
+                                                                                                                                                                   
+{'eval_loss': 4.550792694091797, 'eval_runtime': 0.0485, 'eval_samples_per_second': 412.634, 'eval_steps_per_second': 61.895, 'epoch': 1.0}
+{'eval_loss': 4.562229156494141, 'eval_runtime': 0.0695, 'eval_samples_per_second': 287.613, 'eval_steps_per_second': 43.142, 'epoch': 2.0}
+{'eval_loss': 4.567727088928223, 'eval_runtime': 0.0545, 'eval_samples_per_second': 366.657, 'eval_steps_per_second': 54.999, 'epoch': 3.0}
+{'train_runtime': 9.359, 'train_samples_per_second': 25.644, 'train_steps_per_second': 1.603, 'train_loss': 4.4804534912109375, 'epoch': 3.0}

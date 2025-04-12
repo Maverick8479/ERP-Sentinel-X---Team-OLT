@@ -1,0 +1,9 @@
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [00:43<00:00,  2.88s/it]
+                                                                                                                                                           
+{'eval_loss': 1.9483118057250977, 'eval_accuracy': 0.3333333333333333, 'eval_f1': 0.3333333333333333, 'eval_runtime': 0.2926, 'eval_samples_per_second': 20.507, 'eval_steps_per_second': 3.418, 'epoch': 1.0}
+{'eval_loss': 1.9112862348556519, 'eval_accuracy': 0.3333333333333333, 'eval_f1': 0.3333333333333333, 'eval_runtime': 0.5399, 'eval_samples_per_second': 11.112, 'eval_steps_per_second': 1.852, 'epoch': 2.0}
+{'eval_loss': 1.8782806396484375, 'eval_accuracy': 0.5, 'eval_f1': 0.4444444444444444, 'eval_runtime': 0.5537, 'eval_samples_per_second': 10.837, 'eval_steps_per_second': 1.806, 'epoch': 3.0}
+{'eval_loss': 1.8988208770751953, 'eval_accuracy': 0.3333333333333333, 'eval_f1': 0.22222222222222224, 'eval_runtime': 0.8746, 'eval_samples_per_second': 6.86, 'eval_steps_per_second': 1.143, 'epoch': 4.0}
+{'eval_loss': 1.8520792722702026, 'eval_accuracy': 0.5, 'eval_f1': 0.39999999999999997, 'eval_runtime': 0.0925, 'eval_samples_per_second': 64.844, 'eval_steps_per_second': 10.807, 'epoch': 5.0}
+{'train_runtime': 60.3041, 'train_samples_per_second': 1.658, 'train_steps_per_second': 0.249, 'train_loss': 1.7061382293701173, 'epoch': 5.0}
+✅ Model fine-tuned and saved to `model_output/`

@@ -1,0 +1,31 @@
+[
+    {
+      "intent": "generate_invoice",
+      "response_type": "FAQ",
+      "answer": "You can generate a tax invoice via the Sales Module → Invoice → Create New.",
+      "api_call": "none",
+      "escalate": false
+    },
+    {
+      "intent": "check_po_status",
+      "response_type": "API",
+      "answer": "Checking your PO status...",
+      "api_call": "https://erp.company.com/api/po/status",
+      "escalate": false
+    },
+    {
+      "intent": "generate_grn",
+      "response_type": "FAQ",
+      "answer": "Navigate to the Stores Module → GRN → Create New.",
+      "api_call": "none",
+      "escalate": false
+    },
+    {
+      "intent": "cancel_order",
+      "response_type": "ESCALATE",
+      "answer": "Order cancellation requires manual approval. Escalating to support.",
+      "api_call": "none",
+      "escalate": true
+    }
+  ]
+  

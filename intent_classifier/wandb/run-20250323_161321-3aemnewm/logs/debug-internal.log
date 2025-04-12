@@ -1,0 +1,15 @@
+{"time":"2025-03-23T16:13:22.7965651+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"C:\\Users\\manas\\OneDrive\\Desktop\\Websocket\\intent_classifier\\wandb\\run-20250323_161321-3aemnewm\\logs\\debug-core.log"}
+{"time":"2025-03-23T16:13:23.8542154+05:30","level":"INFO","msg":"created new stream","id":"3aemnewm"}
+{"time":"2025-03-23T16:13:23.8553463+05:30","level":"INFO","msg":"stream: started","id":"3aemnewm"}
+{"time":"2025-03-23T16:13:23.8553463+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3aemnewm"}
+{"time":"2025-03-23T16:13:23.8553463+05:30","level":"INFO","msg":"handler: started","stream_id":"3aemnewm"}
+{"time":"2025-03-23T16:13:23.8553463+05:30","level":"INFO","msg":"sender: started","stream_id":"3aemnewm"}
+{"time":"2025-03-23T16:13:24.4046548+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-23T16:14:20.0406496+05:30","level":"INFO","msg":"stream: closing","id":"3aemnewm"}
+{"time":"2025-03-23T16:14:20.0406496+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-23T16:14:20.0426085+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-23T16:14:21.14863+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-23T16:14:21.9122088+05:30","level":"INFO","msg":"handler: closed","stream_id":"3aemnewm"}
+{"time":"2025-03-23T16:14:21.9122088+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3aemnewm"}
+{"time":"2025-03-23T16:14:21.9122088+05:30","level":"INFO","msg":"sender: closed","stream_id":"3aemnewm"}
+{"time":"2025-03-23T16:14:21.9122088+05:30","level":"INFO","msg":"stream: closed","id":"3aemnewm"}
