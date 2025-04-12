@@ -1,18 +1,46 @@
-ERP Sentinel X is an AI-powered assistant designed to enhance Enterprise Resource Planning (ERP) systems by integrating advanced natural language processing and retrieval-augmented generation capabilities.​
+# 📊 ERP Sentinel X – Team OLT
 
-🚀 Features
+A Smart ERP System built for HackOverflow 5.0 — designed to streamline academic workflows, generate circulars, and automate queries with AI-powered assistance.
 
--Intent Classification: Utilizes machine learning models to accurately interpret user queries within the ERP context.​
+## 🚀 Features
 
--Retrieval-Augmented Generation (RAG): Combines information retrieval with generative models to provide precise and context-aware responses.​
+✅ AI-powered NLP Chatbot for student queries  
+✅ Multi-role Login System – Student, Faculty, Admin  
+✅ Realtime Dashboard for all roles  
+✅ Automated Attendance & Query Management  
 
--Interactive Dashboard: Offers a user-friendly interface for seamless interaction with the assistant.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
--Frameworks & Libraries: Flask, Transformers, FAISS, LangChain​
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Backend**: Flask, Python  
+- **AI/NLP**: HuggingFace Transformers, Scikit-learn  
 
--AI Models: Custom-trained intent classifiers, RAG models
+## ⚙️ Setup Instructions
 
-~👥 Team OLT
+1. Clone the repository:
+    ```
+    git clone https://github.com/Maverick8479/ERP-Sentinel-X---Team-OLT.git
+    cd ERP-Sentinel-X---Team-OLT
+    ```
+
+2. (Optional) Create and activate a virtual environment:
+    ```
+    python -m venv venv
+    source venv/bin/activate     # Linux/macOS
+    venv\Scripts\activate        # Windows
+    ```
+
+3. Install the required packages:
+    ```
+    pip install -r requirements.txt
+    ```
+
+4. Run the Flask application:
+    ```
+    python app.py
+    ```
+
+## 👥 Team OLT
+
 
