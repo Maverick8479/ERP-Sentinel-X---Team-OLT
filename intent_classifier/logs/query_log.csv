@@ -1,0 +1,39 @@
+timestamp,query,predicted_intent,confidence,resolved,user_feedback
+2025-03-22T15:54:53.213801,How do I generate an invoice?,generate_invoice,0.8796886205673218,True,Yes
+2025-03-22T15:54:53.305727,How do I generate an invoice?,generate_invoice,0.8796886205673218,True,Yes
+2025-03-22T15:58:18.610453,& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator,0.3546209931373596,True,Yes
+2025-03-22T15:58:18.722988,& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator,0.3546209931373596,True,Yes
+2025-03-22T15:58:50.059343,How are HSN-wise summary reports generated in IDMS?,hsn_summary_report,0.7233239412307739,True,Yes
+2025-03-22T15:59:03.208551,& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator,0.3546209931373596,True,Yes
+2025-03-22T15:59:03.341913,& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator,0.3546209931373596,True,Yes
+2025-03-22T15:59:11.982769,Can IDMS generate GST returns automatically?,generate_gst_return,0.6592420339584351,True,Yes
+2025-03-22T15:59:32.870175,How do I create a GRN?,create_grn,0.7828658819198608,True,Yes
+2025-03-22T15:59:32.960686,How do I create a GRN?,create_grn,0.7828658819198608,True,Yes
+2025-03-22T15:59:50.775676,Where can I check PO status?,check_pending_po,0.630132794380188,True,Yes
+2025-03-22T15:59:50.862926,Where can I check PO status?,check_pending_po,0.630132794380188,True,Yes
+2025-03-22T15:59:58.783880,How does IDMS generate audit reports for GST compliance?,get_gst_info,0.504426121711731,True,Yes
+2025-03-23T15:53:44.124960,How do I generate an invoice?,generate_invoice,0.8796886205673218,True,Yes
+2025-03-23T15:53:44.171624,How do I generate an invoice?,generate_invoice,0.8796886205673218,True,Yes
+2025-03-23T15:54:31.622284,Where can I check GRN status?,create_grn,0.4977281093597412,True,Yes
+2025-03-23T15:54:31.673490,Where can I check GRN status?,create_grn,0.4977281093597412,True,Yes
+2025-03-23T15:58:13.421887,How are HSN-wise summary reports generated in IDMS?,hsn_summary_report,0.7233240604400635,True,Yes
+2025-03-23T16:00:41.279549,Where can I check GRN status?,create_grn,0.4977281093597412,True,Yes
+2025-03-23T16:00:41.490465,Where can I check GRN status?,create_grn,0.4977281093597412,True,Yes
+2025-03-23T16:01:00.093540,Can IDMS generate GST returns automatically?,generate_gst_return,0.6592420339584351,True,Yes
+2025-03-23T16:03:18.919877,& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/fine_tune_classifier.py,get_batch_creator,0.24730366468429565,True,Yes
+2025-03-23T16:03:19.058204,& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/fine_tune_classifier.py,get_batch_creator,0.24730366468429565,True,Yes
+2025-03-23T16:04:32.553721,Where can I check GRN status?,create_grn,0.4977281093597412,True,Yes
+2025-03-23T16:04:32.629706,Where can I check GRN status?,create_grn,0.4977281093597412,True,Yes
+2025-03-23T16:04:41.190955,Can IDMS generate GST returns automatically?,generate_gst_return,0.6592420339584351,True,Yes
+2025-03-23T16:19:23.522472,How do I generate an invoice?,generate_invoice,0.8796886205673218,True,Yes
+2025-03-23T16:19:23.590200,How do I generate an invoice?,generate_invoice,0.8796886205673218,True,Yes
+2025-03-23T16:20:20.966694,Where can I check GRN status?,create_grn,0.4977281093597412,True,Yes
+2025-03-23T16:20:21.024815,Where can I check GRN status?,create_grn,0.4977281093597412,True,Yes
+2025-03-23T16:21:07.231628,How does IDMS generate audit reports for GST compliance?,get_gst_info,0.504426121711731,True,Yes
+2025-03-23T16:26:39.543436,How to roll back an invoice?,generate_invoice,0.5661011934280396,True,Yes
+2025-03-23T16:27:26.596596,What happens if a sales invoice is cancelled after GST has been filed?,generate_gst_return,0.3803824782371521,True,Yes
+2025-03-23T16:36:22.568352,Where can I check grn status?,check_grn_status,0.8330565690994263,True,Yes
+2025-03-23T16:36:22.615628,Where can I check grn status?,check_grn_status,0.8330565690994263,True,Yes
+2025-03-23T18:27:11.347350,how to make pancake?,create_grn,0.18595552444458008,True,Yes
+2025-03-23T18:27:11.401884,how to make pancake?,create_grn,0.18595552444458008,True,Yes
+2025-03-23T18:27:17.049724,What is the Reverse Charge Mechanism (RCM) in GST?,generate_gst_return,0.4537259638309479,True,Yes

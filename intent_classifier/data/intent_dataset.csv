@@ -1,0 +1,101 @@
+﻿query,intent
+How do I generate an invoice?,generate_invoice
+Where can I check GRN status?,check_grn_status
+Dispatch note missing,missing_dispatch
+Create a new purchase order,create_po
+Cancel the sales order,cancel_so
+Where is my invoice copy?,generate_invoice
+How to modify a PO?,amend_po
+What's the GST on this item?,get_gst_info
+Show me pending POs,check_pending_po
+Raise a purchase requisition,create_po
+Track dispatched orders,track_dispatch
+View invoice summary,generate_invoice
+What is the GSTIN of this vendor?,get_gst_info
+Search for a customer,search_customer
+Send payment reminder,send_payment_reminder
+Is the item in stock?,check_inventory
+View my stock report,check_inventory
+Cancel PO number 1234,cancel_po
+Who approved this PO?,check_po_approver
+Update delivery schedule,update_delivery
+Where can I view the ledger?,view_ledger
+Generate e-way bill for this order,generate_ewaybill
+Where is the delivery challan?,get_delivery_challan
+Issue a goods receipt note,create_grn
+Check the open GRNs,check_grn_status
+Is this item inspected?,check_qc_status
+How do I report quality issues?,raise_quality_issue
+Who raised this invoice?,get_invoice_creator
+Search invoice by PO number,search_invoice_by_po
+Generate GSTR-3B report,generate_gst_return
+File GSTR-1 return,generate_gst_return
+How to raise a credit note?,raise_credit_note
+Issue a debit note,raise_debit_note
+Find suppliers for raw material,search_supplier
+Get the stock aging report,stock_aging_report
+Reorder level for transformers?,check_reorder_level
+What's the production schedule?,check_production_schedule
+Create a new batch card,create_batch_card
+What's the next job card?,get_next_job_card
+Where is my timesheet?,get_timesheet
+Submit my attendance,submit_attendance
+Apply for leave,apply_leave
+Status of my leave request?,check_leave_status
+Approve leave request,approve_leave
+Cancel my leave,delete_leave
+Payroll for last month?,view_payroll
+Salary slip for March?,get_salary_slip
+Check bonus details,check_bonus
+Who is my HRBP?,get_hrbp
+Raise a ticket,raise_ticket
+What tickets are pending?,check_pending_tickets
+Escalate my ticket,escalate_ticket
+Update vendor bank details,update_vendor_bank
+Add new supplier,add_supplier
+Change payment terms,update_payment_terms
+How to approve a PO?,approve_po
+Check sales register,check_sales_register
+Show sales this month,monthly_sales_summary
+Check order confirmation report,order_confirmation_report
+Who raised this sales order?,get_so_creator
+Show dispatch list for today,dispatch_list_today
+Is this invoice uploaded?,check_invoice_uploaded
+Which invoices are rejected?,rejected_invoices
+Sync with GST portal,trigger_gst_sync
+GRN mismatch report,grn_mismatch_report
+Is QC completed?,check_qc_status
+Re-inspect material,reinspect_material
+Who approved dispatch?,dispatch_approver
+View tax ledger,view_tax_ledger
+Current ITC available?,check_itc
+Get HSN-wise summary,hsn_summary_report
+What are the audit logs?,get_audit_logs
+Which GRN is oldest?,get_oldest_grn
+Who created the PO?,get_po_creator
+Pending PO approvals?,pending_po_approvals
+Approve all pending POs,bulk_approve_po
+Delete PO number 5678,delete_po
+What’s the status of invoice #456?,check_invoice_status
+Track payment for PO123,track_payment
+Where is my PO document?,get_po_document
+Resend invoice to customer,resend_invoice
+Send dispatch copy again,resend_dispatch_note
+Verify GST number of vendor,verify_gstin
+Get customer contact info,get_customer_contact
+Mark invoice as paid,mark_invoice_paid
+Who is the approver for GRN?,get_grn_approver
+Upload invoice manually,manual_invoice_upload
+How to configure email alerts?,configure_email_alerts
+Update dispatch mode,update_dispatch_mode
+Cancel dispatch request,cancel_dispatch
+What items are out of stock?,out_of_stock_items
+Generate monthly inventory report,monthly_inventory_report
+Production plan for next week,weekly_production_plan
+Who scheduled the batch?,get_batch_creator
+Next item to be produced?,next_production_item
+How to generate a PO report?,generate_po_report
+Why was invoice rejected?,get_invoice_rejection_reason
+Print the invoice,print_invoice
+Download e-way bill,download_ewaybill
+How many dispatches today?,count_today_dispatches
